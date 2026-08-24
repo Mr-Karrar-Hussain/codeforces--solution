@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 13 |
+| 65 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (14)
 - [implementation](#implementation) (37)
-- [math](#math) (25)
+- [math](#math) (26)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -143,6 +143,7 @@
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1077A | [Frog Jumping](https://codeforces.com/contest/1077/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1077/A%20-%20Frog%20Jumping/solution.cpp) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
