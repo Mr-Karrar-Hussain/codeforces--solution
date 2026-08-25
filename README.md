@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 67 | 13 |
+| 68 | 13 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [brute force](#brute-force) (12)
 - [data structures](#data-structures) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (39)
-- [math](#math) (26)
+- [math](#math) (27)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -86,6 +86,7 @@
 | 1691A | [Beat The Odds](https://codeforces.com/contest/1691/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1691/A%20-%20Beat%20The%20Odds/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
+| 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
@@ -162,6 +163,7 @@
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2063A | [Minimal Coprime](https://codeforces.com/contest/2063/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2063/A%20-%20Minimal%20Coprime/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
