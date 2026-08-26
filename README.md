@@ -6,23 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 11 |
+| 60 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (8)
+- [bitmasks](#bitmasks) (2)
+- [brute force](#brute-force) (11)
+- [data structures](#data-structures) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (28)
-- [math](#math) (17)
-- [number theory](#number-theory) (2)
+- [greedy](#greedy) (13)
+- [implementation](#implementation) (36)
+- [math](#math) (22)
+- [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (3)
-- [strings](#strings) (11)
+- [sortings](#sortings) (7)
+- [strings](#strings) (13)
 
 ---
 
@@ -31,6 +33,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### brute force
 
@@ -41,9 +50,18 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/268/A%20-%20Games/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 
 ### games
 
@@ -60,12 +78,15 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### implementation
 
@@ -90,15 +111,23 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### math
 
@@ -111,23 +140,30 @@
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
+| 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
+| 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### probabilities
 
@@ -146,8 +182,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
@@ -162,8 +202,10 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
+| 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
 
 ---
 
