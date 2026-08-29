@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 13 |
+| 72 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (16)
 - [implementation](#implementation) (42)
-- [math](#math) (28)
+- [math](#math) (29)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -160,6 +160,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
+| 1542A | [Odd Set](https://codeforces.com/contest/1542/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1542/A%20-%20Odd%20Set/solution.cpp) |
 | 1691A | [Beat The Odds](https://codeforces.com/contest/1691/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1691/A%20-%20Beat%20The%20Odds/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
