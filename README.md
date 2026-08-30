@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 14 |
+| 74 | 14 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [data structures](#data-structures) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (42)
+- [implementation](#implementation) (43)
 - [math](#math) (29)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
@@ -123,6 +123,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Mr-Karrar-Hussain/codeforces--solution/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
